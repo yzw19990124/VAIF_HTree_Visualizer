@@ -26,7 +26,7 @@ def htree_built(data):
 def visual(G):
     pos = nx.spring_layout(G)
     # labels = nx.get_node_attributes(G, 'label')#Dont show labels on the graph
-    nx.draw(G, pos, with_labels=True, node_size=500, node_color='skyblue', font_size=5, font_weight='bold')
+    nx.draw(G, pos, with_labels=True, node_size=250, node_color='skyblue', font_size=5, font_weight='bold')
     plt.show()
 
 if __name__ == "__main__":
@@ -35,3 +35,4 @@ if __name__ == "__main__":
     graph = htree_built(data)
     # print(graph._node)
     visual(graph)
+    print(graph._node)
