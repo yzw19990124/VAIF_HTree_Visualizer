@@ -1,0 +1,1089 @@
+   Compiling libc v0.2.69
+   Compiling cfg-if v0.1.10
+   Compiling autocfg v1.0.0
+   Compiling lazy_static v1.4.0
+   Compiling log v0.4.8
+   Compiling semver-parser v0.7.0
+   Compiling byteorder v1.3.4
+   Compiling futures v0.1.29
+   Compiling proc-macro2 v1.0.12
+   Compiling unicode-xid v0.2.0
+   Compiling either v1.5.3
+   Compiling syn v1.0.19
+   Compiling slab v0.4.2
+   Compiling maybe-uninit v2.0.0
+   Compiling scopeguard v1.1.0
+   Compiling cc v1.0.52
+   Compiling fnv v1.0.6
+   Compiling bitflags v1.2.1
+   Compiling pkg-config v0.3.17
+   Compiling itoa v0.4.5
+   Compiling rand_core v0.4.2
+   Compiling serde v1.0.106
+   Compiling autocfg v0.1.7
+   Compiling smallvec v1.4.0
+   Compiling version_check v0.9.1
+   Compiling memchr v2.3.3
+   Compiling ryu v1.0.4
+   Compiling matches v0.1.8
+   Compiling openssl v0.10.29
+   Compiling foreign-types-shared v0.1.1
+   Compiling native-tls v0.2.4
+   Compiling httparse v1.3.4
+   Compiling getrandom v0.1.14
+   Compiling version_check v0.1.5
+   Compiling openssl-probe v0.1.2
+   Compiling arrayvec v0.4.12
+   Compiling failure_derive v0.1.8
+   Compiling sha1 v0.6.0
+   Compiling percent-encoding v1.0.1
+   Compiling futures-core v0.3.4
+   Compiling safemem v0.3.3
+   Compiling try-lock v0.2.2
+   Compiling traitobject v0.1.0
+   Compiling nodrop v0.1.14
+   Compiling serde v0.8.23
+   Compiling futures-sink v0.3.4
+   Compiling ppv-lite86 v0.2.6
+   Compiling regex-syntax v0.6.17
+   Compiling typeable v0.1.2
+   Compiling rustc-demangle v0.1.16
+   Compiling language-tags v0.2.2
+   Compiling pin-project-lite v0.1.5
+   Compiling static_assertions v0.3.4
+   Compiling pin-utils v0.1.0
+   Compiling futures-task v0.3.4
+   Compiling bytes v0.5.4
+   Compiling gcc v0.3.55
+   Compiling void v1.0.2
+   Compiling proc-macro-hack v0.5.15
+   Compiling unicode-width v0.1.7
+   Compiling linked-hash-map v0.5.3
+   Compiling percent-encoding v2.1.0
+   Compiling ascii v0.9.3
+   Compiling genawaiter-macro v0.99.1
+   Compiling rust-ini v0.13.0
+   Compiling ansi_term v0.11.0
+   Compiling vec_map v0.8.2
+   Compiling strsim v0.8.0
+   Compiling rustc-serialize v0.3.24
+   Compiling nom v2.2.1
+   Compiling dtoa v0.4.5
+   Compiling fixedbitset v0.2.0
+   Compiling histogram v0.6.9
+   Compiling hex v0.4.2
+   Compiling bimap v0.4.0
+   Compiling thread_local v1.0.1
+   Compiling semver v0.9.0
+   Compiling itertools v0.9.0
+   Compiling lock_api v0.3.4
+   Compiling crossbeam-utils v0.7.2
+   Compiling memoffset v0.5.4
+   Compiling crossbeam-epoch v0.8.2
+   Compiling num-traits v0.2.11
+   Compiling indexmap v1.3.2
+   Compiling num-integer v0.1.42
+   Compiling rand_core v0.3.1
+   Compiling rand_jitter v0.1.4
+   Compiling unicode-normalization v0.1.12
+   Compiling unicode-bidi v0.3.4
+   Compiling foreign-types v0.3.2
+   Compiling rand_chacha v0.1.1
+   Compiling rand_pcg v0.1.2
+   Compiling rand v0.6.5
+   Compiling proc-macro-error-attr v0.4.12
+   Compiling proc-macro-error v0.4.12
+   Compiling nom v5.1.1
+   Compiling unicase v1.4.2
+   Compiling tokio-sync v0.1.8
+   Compiling futures-util v0.3.4
+   Compiling openssl-sys v0.9.55
+   Compiling backtrace-sys v0.1.37
+   Compiling unreachable v1.0.0
+   Compiling textwrap v0.11.0
+   Compiling yaml-rust v0.4.3
+   Compiling rust-crypto v0.2.36
+   Compiling rustc_version v0.2.3
+   Compiling serde_test v0.8.23
+   Compiling rand_isaac v0.1.1
+   Compiling rand_hc v0.1.0
+   Compiling rand_xorshift v0.1.1
+   Compiling idna v0.1.5
+   Compiling idna v0.2.0
+   Compiling log v0.3.9
+   Compiling want v0.2.0
+   Compiling parking_lot_core v0.6.2
+   Compiling parking_lot v0.9.0
+   Compiling hyper v0.12.35
+   Compiling lexical-core v0.6.8
+   Compiling procinfo v0.4.2
+   Compiling base64 v0.10.1
+   Compiling base64 v0.9.3
+   Compiling quote v1.0.4
+   Compiling smallvec v0.6.13
+   Compiling linked-hash-map v0.3.0
+   Compiling iovec v0.1.4
+   Compiling net2 v0.2.34
+   Compiling num_cpus v1.13.0
+   Compiling time v0.1.43
+   Compiling rand_os v0.1.3
+   Compiling parking_lot_core v0.7.2
+   Compiling rand v0.4.6
+   Compiling dirs-sys v0.3.4
+   Compiling atty v0.2.14
+   Compiling aho-corasick v0.7.10
+   Compiling combine v3.8.1
+   Compiling futures-executor v0.3.4
+   Compiling mime v0.2.6
+   Compiling url v1.7.2
+   Compiling url v2.1.1
+   Compiling tokio-executor v0.1.10
+   Compiling crossbeam-queue v0.2.1
+   Compiling bytes v0.4.12
+   Compiling futures-cpupool v0.1.8
+   Compiling threadpool v1.8.1
+   Compiling mio v0.6.22
+   Compiling rand_core v0.5.1
+   Compiling parking_lot v0.10.2
+   Compiling clap v2.33.0
+   Compiling dirs v2.0.2
+   Compiling backtrace v0.3.46
+   Compiling num-traits v0.1.43
+   Compiling streaming-stats v0.2.3
+   Compiling rand v0.3.23
+   Compiling regex v1.3.7
+   Compiling tokio-current-thread v0.1.7
+   Compiling tokio-timer v0.2.13
+   Compiling crossbeam-deque v0.7.3
+   Compiling hyper v0.10.16
+   Compiling tokio-io v0.1.13
+   Compiling http v0.1.21
+   Compiling tokio-buf v0.1.1
+   Compiling string v0.2.1
+   Compiling rand_chacha v0.2.2
+   Compiling mio-uds v0.6.8
+   Compiling serde-hjson v0.9.1
+   Compiling tokio-threadpool v0.1.18
+   Compiling tokio-codec v0.1.2
+   Compiling syn-mid v0.5.0
+   Compiling synstructure v0.12.3
+   Compiling rand v0.7.3
+   Compiling tokio v0.2.20
+   Compiling http-body v0.1.0
+   Compiling h2 v0.1.26
+   Compiling tokio-reactor v0.1.12
+   Compiling tokio-fs v0.1.7
+   Compiling tokio-tls v0.2.1
+   Compiling tokio-tcp v0.1.4
+   Compiling tokio-udp v0.1.6
+   Compiling tokio-uds v0.2.6
+   Compiling websocket-base v0.24.0
+   Compiling serde_derive v1.0.106
+   Compiling tokio v0.1.22
+   Compiling websocket v0.24.0
+   Compiling tokio-util v0.2.0
+   Compiling redis v0.15.1
+   Compiling failure v0.1.8
+   Compiling genawaiter-proc-macro v0.99.1
+   Compiling genawaiter v0.99.1
+   Compiling hyper-tls v0.3.2
+   Compiling serde_json v1.0.52
+   Compiling toml v0.5.6
+   Compiling chrono v0.4.11
+   Compiling uuid v0.8.1
+   Compiling petgraph v0.5.0
+   Compiling jsonrpc-core v14.1.0
+   Compiling pythia_common v1.0.0 (/local/pythia/pythia_common)
+   Compiling config v0.10.1
+   Compiling jsonrpc-pubsub v14.1.0
+   Compiling jsonrpc-client-transports v14.1.0
+   Compiling jsonrpc-core-client v14.1.0
+   Compiling pythia v1.0.0 (/local/pythia)
+warning: unused import: `crate::trace::Value`
+  --> src/grouping.rs:31:5
+   |
+31 | use crate::trace::Value;
+   |     ^^^^^^^^^^^^^^^^^^^
+   |
+   = note: `#[warn(unused_imports)]` on by default
+
+warning: unused import: `crate::trace::Value::SignedInt`
+  --> src/reader/hdfs.rs:37:5
+   |
+37 | use crate::trace::Value::SignedInt;
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `crate::trace::Value::UnsignedInt`
+  --> src/reader/hdfs.rs:39:5
+   |
+39 | use crate::trace::Value::UnsignedInt;
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `pythia_common::RequestType`
+  --> src/reader/hdfs.rs:43:5
+   |
+43 | use pythia_common::RequestType;
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `pythia_common::REQUEST_TYPES`
+  --> src/reader/hdfs.rs:44:5
+   |
+44 | use pythia_common::REQUEST_TYPES;
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `byteorder::BigEndian`
+  --> src/reader/deathstar.rs:15:5
+   |
+15 | use byteorder::BigEndian;
+   |     ^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `byteorder::ByteOrder`
+  --> src/reader/deathstar.rs:16:5
+   |
+16 | use byteorder::ByteOrder;
+   |     ^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `crate::trace::Value::SignedInt`
+  --> src/reader/deathstar.rs:38:5
+   |
+38 | use crate::trace::Value::SignedInt;
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `crate::trace::Value::UnsignedInt`
+  --> src/reader/deathstar.rs:40:5
+   |
+40 | use crate::trace::Value::UnsignedInt;
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `crate::trace::Value::SignedInt`
+  --> src/reader/osprofiler.rs:43:5
+   |
+43 | use crate::trace::Value::SignedInt;
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `stats::variance`
+  --> src/trace.rs:29:5
+   |
+29 | use stats::variance;
+   |     ^^^^^^^^^^^^^^^
+
+warning: unused import: `procinfo::pid::statm_self`
+  --> src/lib.rs:91:5
+   |
+91 | use procinfo::pid::statm_self;
+   |     ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused variable: `node`
+   --> src/reader/deathstar.rs:245:32
+    |
+245 |     fn should_skip_node(&self, node: &DEATHSTAREvent, event: &Event) -> bool {
+    |                                ^^^^ help: consider prefixing with an underscore: `_node`
+    |
+    = note: `#[warn(unused_variables)]` on by default
+
+warning: variable does not need to be mutable
+   --> src/grouping.rs:363:13
+    |
+363 |         let mut groups_vec: Vec<&Group> = self
+    |             ----^^^^^^^^^^
+    |             |
+    |             help: remove this `mut`
+    |
+    = note: `#[warn(unused_mut)]` on by default
+
+warning: variable does not need to be mutable
+   --> src/reader/deathstar.rs:131:13
+    |
+131 |         let mut trace = self.read_file(&path.to_str().unwrap());
+    |             ----^^^^^
+    |             |
+    |             help: remove this `mut`
+
+warning: variable does not need to be mutable
+   --> src/reader/deathstar.rs:146:21
+    |
+146 |                 let mut trace = self.from_json(&mut t[0]);
+    |                     ----^^^^^
+    |                     |
+    |                     help: remove this `mut`
+
+warning: unused `std::result::Result` that must be used
+   --> src/grouping.rs:372:13
+    |
+372 |             histogram.increment(val.mean.round() as u64);
+    |             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |
+    = note: `#[warn(unused_must_use)]` on by default
+    = note: this `Result` may be an `Err` variant, which should be handled
+
+warning: structure field `DEATHSTAR_trace_dir` should have a snake case name
+  --> src/reader/deathstar.rs:51:5
+   |
+51 |     DEATHSTAR_trace_dir: PathBuf
+   |     ^^^^^^^^^^^^^^^^^^^ help: convert the identifier to snake case: `deathstar_trace_dir`
+   |
+   = note: `#[warn(non_snake_case)]` on by default
+
+warning: function `convert_DEATHSTAR_timestamp` should have a snake case name
+   --> src/reader/deathstar.rs:372:4
+    |
+372 | fn convert_DEATHSTAR_timestamp(_timestamp: u64, hrt: u64) -> NaiveDateTime {
+    |    ^^^^^^^^^^^^^^^^^^^^^^^^^^^ help: convert the identifier to snake case: `convert_deathstar_timestamp`
+
+warning: method `from_DEATHSTAR_node` should have a snake case name
+   --> src/reader/deathstar.rs:384:8
+    |
+384 |     fn from_DEATHSTAR_node(event: &DEATHSTAREvent) -> Event {
+    |        ^^^^^^^^^^^^^^^^^^^ help: convert the identifier to snake case: `from_deathstar_node`
+
+warning: structure field `DEATHSTAR_trace_dir` should have a snake case name
+  --> src/settings.rs:38:9
+   |
+38 |     pub DEATHSTAR_trace_dir: PathBuf,
+   |         ^^^^^^^^^^^^^^^^^^^ help: convert the identifier to snake case: `deathstar_trace_dir`
+
+warning: unused variable: `last_gc`
+  --> src/bin/pythia_controller.rs:55:13
+   |
+55 |     let mut last_gc = Instant::now();
+   |             ^^^^^^^ help: consider prefixing with an underscore: `_last_gc`
+   |
+   = note: `#[warn(unused_variables)]` on by default
+
+warning: variable does not need to be mutable
+  --> src/bin/pythia_controller.rs:55:9
+   |
+55 |     let mut last_gc = Instant::now();
+   |         ----^^^^^^^
+   |         |
+   |         help: remove this `mut`
+   |
+   = note: `#[warn(unused_mut)]` on by default
+
+    Finished dev [unoptimized + debuginfo] target(s) in 4m 22s
+     Running `target/debug/pythia_controller pythia_out`
+Targets are {TracepointID { id: 302, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/compute/manager.py:1859:nova.compute.manager.ComputeManager._update_scheduler_instance_info" }}
+Printing results to pythia_out
+Enabling [(TracepointID { id: 97, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/scheduler/manager.py:205:nova.scheduler.manager.SchedulerManager.delete_instance_info" }, None), (TracepointID { id: 105, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/openstackclient/compute/v2/server.py:662:openstackclient.compute.v2.server.CreateServer.take_action" }, None), (TracepointID { id: 153, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/conductor/manager.py:1374:nova.conductor.manager.ComputeTaskManager.schedule_and_build_instances" }, None), (TracepointID { id: 15, full_name: "geniuser/usr/lib/python3/dist-packages/cliff/app.py:363:openstackclient.shell.App.run_subcommand" }, None), (TracepointID { id: 4, full_name: "nova/v2.1/:GET" }, None), (TracepointID { id: 163, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/exception_wrapper.py:1957:nova.compute.manager.ComputeManager.build_and_run_instance" }, None), (TracepointID { id: 17, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/openstackclient/compute/v2/server.py:1160:openstackclient.compute.v2.server.ListServer.take_action" }, None), (TracepointID { id: 1, full_name: "keystone/v3/auth/tokens:POST" }, None), (TracepointID { id: 270, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/compute/manager.py:1954:nova.compute.manager.ComputeManager._build_succeeded" }, None), (TracepointID { id: 184, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/compute/manager.py:1592:nova.compute.manager.ComputeManager._allocate_network_async" }, None), (TracepointID { id: 266, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/scheduler/manager.py:198:nova.scheduler.manager.SchedulerManager.update_instance_info" }, None), (TracepointID { id: 196, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/virt/libvirt/driver.py:5486:nova.virt.libvirt.driver.LibvirtDriver._get_guest_xml" }, None), (TracepointID { id: 5, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/novaclient/api_versions.py:81:novaclient.v2.usage.UsageManager.list" }, None), (TracepointID { id: 165, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/hooks.py:2046:nova.compute.manager.ComputeManager._do_build_and_run_instance" }, None), (TracepointID { id: 31, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/openstackclient/compute/v2/server.py:1008:openstackclient.compute.v2.server.DeleteServer.take_action" }, None), (TracepointID { id: 2, full_name: "nova/v2.1:GET" }, None), (TracepointID { id: 102, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/consoleauth/manager.py:140:nova.consoleauth.manager.ConsoleAuthManager.delete_tokens_for_instance" }, None), (TracepointID { id: 0, full_name: "keystone/v3:GET" }, None), (TracepointID { id: 47, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/exception_wrapper.py:2897:nova.compute.manager.ComputeManager.terminate_instance" }, None), (TracepointID { id: 164, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/compute/manager.py:1972:_locked_do_build_and_run_instance:_build_semaphore._waiters" }, None), (TracepointID { id: 197, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/virt/libvirt/driver.py:5223:nova.virt.libvirt.driver.LibvirtDriver._get_guest_config" }, None)]
+Enabled following tracepoints: [(TracepointID { id: 97, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/scheduler/manager.py:205:nova.scheduler.manager.SchedulerManager.delete_instance_info" }, None), (TracepointID { id: 105, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/openstackclient/compute/v2/server.py:662:openstackclient.compute.v2.server.CreateServer.take_action" }, None), (TracepointID { id: 153, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/conductor/manager.py:1374:nova.conductor.manager.ComputeTaskManager.schedule_and_build_instances" }, None), (TracepointID { id: 15, full_name: "geniuser/usr/lib/python3/dist-packages/cliff/app.py:363:openstackclient.shell.App.run_subcommand" }, None), (TracepointID { id: 4, full_name: "nova/v2.1/:GET" }, None), (TracepointID { id: 163, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/exception_wrapper.py:1957:nova.compute.manager.ComputeManager.build_and_run_instance" }, None), (TracepointID { id: 17, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/openstackclient/compute/v2/server.py:1160:openstackclient.compute.v2.server.ListServer.take_action" }, None), (TracepointID { id: 1, full_name: "keystone/v3/auth/tokens:POST" }, None), (TracepointID { id: 270, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/compute/manager.py:1954:nova.compute.manager.ComputeManager._build_succeeded" }, None), (TracepointID { id: 184, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/compute/manager.py:1592:nova.compute.manager.ComputeManager._allocate_network_async" }, None), (TracepointID { id: 266, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/scheduler/manager.py:198:nova.scheduler.manager.SchedulerManager.update_instance_info" }, None), (TracepointID { id: 196, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/virt/libvirt/driver.py:5486:nova.virt.libvirt.driver.LibvirtDriver._get_guest_xml" }, None), (TracepointID { id: 5, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/novaclient/api_versions.py:81:novaclient.v2.usage.UsageManager.list" }, None), (TracepointID { id: 165, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/hooks.py:2046:nova.compute.manager.ComputeManager._do_build_and_run_instance" }, None), (TracepointID { id: 31, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/openstackclient/compute/v2/server.py:1008:openstackclient.compute.v2.server.DeleteServer.take_action" }, None), (TracepointID { id: 2, full_name: "nova/v2.1:GET" }, None), (TracepointID { id: 102, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/consoleauth/manager.py:140:nova.consoleauth.manager.ConsoleAuthManager.delete_tokens_for_instance" }, None), (TracepointID { id: 0, full_name: "keystone/v3:GET" }, None), (TracepointID { id: 47, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/exception_wrapper.py:2897:nova.compute.manager.ComputeManager.terminate_instance" }, None), (TracepointID { id: 164, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/compute/manager.py:1972:_locked_do_build_and_run_instance:_build_semaphore._waiters" }, None), (TracepointID { id: 197, full_name: "nova/usr/local/lib/python3.6/dist-packages/nova/virt/libvirt/driver.py:5223:nova.virt.libvirt.driver.LibvirtDriver._get_guest_config" }, None)]
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 3270731, transmit_bytes_per_sec: 1958, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 3.66, load_avg_5_min: 4.31, tasks_runnable: 3, trace_input_kbps: 4.68, agent_cpu_time: 0.00008981959093592014, trace_size: 39655842 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 3285880, transmit_bytes_per_sec: 1081, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.00003773015393902807, trace_size: 22406304 }
+Got 0 paths of duration [] at time 8587186us
+Groups: 
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4445, transmit_bytes_per_sec: 710, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 3.0, load_avg_5_min: 4.11, tasks_runnable: 3, trace_input_kbps: 0.09, agent_cpu_time: 0.0, trace_size: 39655842 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4303, transmit_bytes_per_sec: 787, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+Got 0 paths of duration [] at time 28641542us
+Groups: 
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4016, transmit_bytes_per_sec: 611, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 2.29, load_avg_5_min: 3.87, tasks_runnable: 2, trace_input_kbps: 0.09, agent_cpu_time: 0.0, trace_size: 39655842 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 3630, transmit_bytes_per_sec: 457, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+Got 0 paths of duration [] at time 48695519us
+Groups: 
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4471, transmit_bytes_per_sec: 969, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 1.86, load_avg_5_min: 3.67, tasks_runnable: 17, trace_input_kbps: 0.09, agent_cpu_time: 0.0, trace_size: 39655842 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 3850, transmit_bytes_per_sec: 675, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+Got 0 paths of duration [] at time 68798290us
+Groups: 
+Working on 6c661372-539e-496f-b28c-ccd8cb7dae14
+Working on b2c96d5e-8ec6-47f6-b2f3-122b297a4734
+Working on 1fb73da8-c209-49f1-8614-4f3351fc0942
+Working on e6290906-f3ce-4c3a-afcc-57a02da6d445
+Warning: couldn't get type for request e6290906-f3ce-4c3a-afcc-57a02da6d445
+Working on e8cf3fcb-b7eb-4996-bafa-0a1c113f60fe
+Warning: couldn't get type for request b2c96d5e-8ec6-47f6-b2f3-122b297a4734
+Working on d0081c95-35b6-4780-a6ba-f3ea3a3cb56e
+Warning: couldn't get type for request 6c661372-539e-496f-b28c-ccd8cb7dae14
+Working on 6985e8d1-056f-48fa-832f-1623107ca686
+Warning: couldn't get type for request 1fb73da8-c209-49f1-8614-4f3351fc0942
+Working on 0ec15202-f89f-48cf-8b3c-fb9b68a11bd0
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4763, transmit_bytes_per_sec: 947, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 2.62, load_avg_5_min: 3.73, tasks_runnable: 26, trace_input_kbps: 0.44, agent_cpu_time: 0.0, trace_size: 39676898 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4658, transmit_bytes_per_sec: 713, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.16, agent_cpu_time: 0.0, trace_size: 22406304 }
+Got 0 paths of duration [] at time 88924553us
+Groups: 
+Warning: couldn't get type for request e8cf3fcb-b7eb-4996-bafa-0a1c113f60fe
+Warning: couldn't get type for request d0081c95-35b6-4780-a6ba-f3ea3a3cb56e
+Warning: couldn't get type for request 6985e8d1-056f-48fa-832f-1623107ca686
+Warning: couldn't get type for request 0ec15202-f89f-48cf-8b3c-fb9b68a11bd0
+Working on 83f4214f-7431-44e5-b848-91764b48e0c9
+Working on b2c96d5e-8ec6-47f6-b2f3-122b297a4734
+Working on 6c661372-539e-496f-b28c-ccd8cb7dae14
+Working on 0ec15202-f89f-48cf-8b3c-fb9b68a11bd0
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 6232, transmit_bytes_per_sec: 846, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 2.89, load_avg_5_min: 3.71, tasks_runnable: 6, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39675174 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 5733, transmit_bytes_per_sec: 1024, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+Got 0 paths of duration [] at time 108993733us
+Groups: 
+Warning: couldn't get type for request 83f4214f-7431-44e5-b848-91764b48e0c9
+Working on c2ccf7f9-67f9-4707-b662-17900cb08a9e
+Warning: couldn't get type for request b2c96d5e-8ec6-47f6-b2f3-122b297a4734
+Working on d0081c95-35b6-4780-a6ba-f3ea3a3cb56e
+Warning: couldn't get type for request 6c661372-539e-496f-b28c-ccd8cb7dae14
+Working on 6985e8d1-056f-48fa-832f-1623107ca686
+Warning: couldn't get type for request c2ccf7f9-67f9-4707-b662-17900cb08a9e
+Working on b87101f1-8a59-47a1-a447-d1cfd054116e
+Warning: couldn't get type for request 0ec15202-f89f-48cf-8b3c-fb9b68a11bd0
+Working on 1fb73da8-c209-49f1-8614-4f3351fc0942
+Warning: couldn't get type for request 6985e8d1-056f-48fa-832f-1623107ca686
+Warning: couldn't get type for request d0081c95-35b6-4780-a6ba-f3ea3a3cb56e
+Warning: couldn't get type for request b87101f1-8a59-47a1-a447-d1cfd054116e
+Working on c0c245c4-a5e5-4eb7-907d-1255c6d6289a
+Warning: couldn't get type for request 1fb73da8-c209-49f1-8614-4f3351fc0942
+Warning: couldn't get type for request c0c245c4-a5e5-4eb7-907d-1255c6d6289a
+Working on e6290906-f3ce-4c3a-afcc-57a02da6d445
+Warning: couldn't get type for request e6290906-f3ce-4c3a-afcc-57a02da6d445
+Working on e8cf3fcb-b7eb-4996-bafa-0a1c113f60fe
+Warning: couldn't get type for request e8cf3fcb-b7eb-4996-bafa-0a1c113f60fe
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4978, transmit_bytes_per_sec: 1582, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 3.29, load_avg_5_min: 3.75, tasks_runnable: 4, trace_input_kbps: 0.81, agent_cpu_time: 0.0, trace_size: 39681930 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4467, transmit_bytes_per_sec: 1085, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 6c661372-539e-496f-b28c-ccd8cb7dae14 created a group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 6985e8d1-056f-48fa-832f-1623107ca686 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace b2c96d5e-8ec6-47f6-b2f3-122b297a4734 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace d0081c95-35b6-4780-a6ba-f3ea3a3cb56e added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 0ec15202-f89f-48cf-8b3c-fb9b68a11bd0 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 1fb73da8-c209-49f1-8614-4f3351fc0942 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace e6290906-f3ce-4c3a-afcc-57a02da6d445 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace e8cf3fcb-b7eb-4996-bafa-0a1c113f60fe added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [483703000, 627139000, 20924000, 21626000, 19412000, 478572000, 472259000, 13376000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 63742609850234376
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 267126374.99999997
+Duration of each trace: [483703000, 627139000, 20924000, 21626000, 19412000, 478572000, 472259000, 13376000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 63742609850234376
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 267126374.99999997
+Duration of each trace: [483703000, 627139000, 20924000, 21626000, 19412000, 478572000, 472259000, 13376000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 63742609850234376
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 267126374.99999997
+Duration of each trace: [483703000, 627139000, 20924000, 21626000, 19412000, 478572000, 472259000, 13376000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 63742609850234376
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 267126374.99999997
+Duration of each trace: [483703000, 627139000, 20924000, 21626000, 19412000, 478572000, 472259000, 13376000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 63742609850234376
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 267126374.99999997
+Duration of each trace: [483703000, 627139000, 20924000, 21626000, 19412000, 478572000, 472259000, 13376000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 63742609850234376
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 267126374.99999997
+Duration of each trace: [483703000, 627139000, 20924000, 21626000, 19412000, 478572000, 472259000, 13376000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 63742609850234376
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 267126374.99999997
+Duration of each trace: [483703000, 627139000, 20924000, 21626000, 19412000, 478572000, 472259000, 13376000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 63742609850234376
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 267126374.99999997
+Got 8 paths of duration [483.703ms, 627.139ms, 20.924ms, 21.626ms, 19.412ms, 478.572ms, 472.259ms, 13.376ms] at time 129051441us
+Groups: Group<8 Unknown traces, mean: 267.126375, var: 63742609850234376.0, cv:0.945144366061325, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Making decision. Top 10 problem groups:
+Group<8 Unknown traces, mean: 267.126375, var: 63742609850234376.0, cv:0.945144366061325, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">
+*New Metric: hash "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd", reqtype Unknown, total var 63742609850234376.0, edge_total: 0.06374260985023436
+Top 10 edges of group Group<8 Unknown traces, mean: 267.126375, var: 63742609850234376.0, cv:0.945144366061325, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">:
+(geniuser/usr/lib/python3/dist-packages/cliff/app.py:363:openstackclient.shell.App.run_subcommand: start -> geniuser/usr/lib/python3/dist-packages/cliff/app.py:363:openstackclient.shell.App.run_subcommand: end): Edge(8 elements, 13.376ms min, 627.139ms max, 63742609850234376.0 variance)
+Searching (geniuser/usr/lib/python3/dist-packages/cliff/app.py:363:openstackclient.shell.App.run_subcommand: start -> geniuser/usr/lib/python3/dist-packages/cliff/app.py:363:openstackclient.shell.App.run_subcommand: end): Edge(8 elements, 13.376ms min, 627.139ms max, 63742609850234376.0 variance)
+Common context for the search: [TracepointID { id: 15, full_name: "geniuser/usr/lib/python3/dist-packages/cliff/app.py:363:openstackclient.shell.App.run_subcommand" }]
+Finding 1 matching groups out of 1 took 156, group size 2
+Finding 7 matching groups out of 7 took 1282, group size 2
+Finding 0 matching groups out of 1 took 333, group size 2
+Finding 19 matching groups out of 19 took 6885, group size 2
+Finding 1 matching groups out of 1 took 34, group size 2
+Finding 28 matching groups took 9074, group size 2
+Enabling [(TracepointID { id: 104, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/openstackclient/compute/v2/server.py:486:openstackclient.compute.v2.server.CreateServer.get_parser" }, Some(Unknown)), (TracepointID { id: 16, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/openstackclient/compute/v2/server.py:1035:openstackclient.compute.v2.server.ListServer.get_parser" }, Some(Unknown)), (TracepointID { id: 30, full_name: "geniuser/usr/local/lib/python3.6/dist-packages/openstackclient/compute/v2/server.py:993:openstackclient.compute.v2.server.DeleteServer.get_parser" }, Some(Unknown))]
+Problematic req types: 
+Unknown, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+Working on 1dcef11c-3727-43fd-907b-11864de37fa4
+Warning: couldn't get type for request 1dcef11c-3727-43fd-907b-11864de37fa4
+Working on 4b945eef-2a5a-4ea5-be0e-6773b6b930a5
+Warning: couldn't get type for request 4b945eef-2a5a-4ea5-be0e-6773b6b930a5
+Working on 6ab02ce4-3f61-4778-8007-d0d5a2c8c4b6
+Warning: couldn't get type for request 6ab02ce4-3f61-4778-8007-d0d5a2c8c4b6
+Working on 7955365b-f98a-4a11-9cbd-8e1d6f9a5b01
+Working on c2ccf7f9-67f9-4707-b662-17900cb08a9e
+Warning: couldn't get type for request 7955365b-f98a-4a11-9cbd-8e1d6f9a5b01
+Warning: couldn't get type for request c2ccf7f9-67f9-4707-b662-17900cb08a9e
+Working on 83f4214f-7431-44e5-b848-91764b48e0c9
+Warning: couldn't get type for request 83f4214f-7431-44e5-b848-91764b48e0c9
+Working on b87101f1-8a59-47a1-a447-d1cfd054116e
+Warning: couldn't get type for request b87101f1-8a59-47a1-a447-d1cfd054116e
+Working on c0c245c4-a5e5-4eb7-907d-1255c6d6289a
+Warning: couldn't get type for request c0c245c4-a5e5-4eb7-907d-1255c6d6289a
+Working on 71d3f8bc-91f6-4eb6-9446-c20baa57900b
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4882, transmit_bytes_per_sec: 2031, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 3.87, load_avg_5_min: 3.85, tasks_runnable: 2, trace_input_kbps: 0.8, agent_cpu_time: 0.0, trace_size: 39692458 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4729, transmit_bytes_per_sec: 1140, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace c2ccf7f9-67f9-4707-b662-17900cb08a9e added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 83f4214f-7431-44e5-b848-91764b48e0c9 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace b87101f1-8a59-47a1-a447-d1cfd054116e added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace c0c245c4-a5e5-4eb7-907d-1255c6d6289a added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 5038126687500
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17340250
+Duration of each trace: [18607000, 18212000, 13487000, 19055000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 5038126687500
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17340250
+Duration of each trace: [18607000, 18212000, 13487000, 19055000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 5038126687500
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17340250
+Duration of each trace: [18607000, 18212000, 13487000, 19055000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 5038126687500
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17340250
+Got 4 paths of duration [18.607ms, 18.212ms, 13.487ms, 19.055ms] at time 149170183us
+Groups: Group<4 Unknown traces, mean: 17.34025, var: 5038126687500.0, cv:0.1294431841198244, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Warning: couldn't get type for request 71d3f8bc-91f6-4eb6-9446-c20baa57900b
+Working on 52812351-848e-4b92-a7a1-1f87cd748ea8
+Warning: couldn't get type for request 52812351-848e-4b92-a7a1-1f87cd748ea8
+Working on 5f503ebc-2e7b-44f1-abee-137104797de3
+Warning: couldn't get type for request 5f503ebc-2e7b-44f1-abee-137104797de3
+Working on cd96767e-df6e-41c0-a81d-9446c0aba7c9
+Working on 1dcef11c-3727-43fd-907b-11864de37fa4
+Warning: couldn't get type for request cd96767e-df6e-41c0-a81d-9446c0aba7c9
+Warning: couldn't get type for request 1dcef11c-3727-43fd-907b-11864de37fa4
+Working on 4b945eef-2a5a-4ea5-be0e-6773b6b930a5
+Warning: couldn't get type for request 4b945eef-2a5a-4ea5-be0e-6773b6b930a5
+Working on 6ab02ce4-3f61-4778-8007-d0d5a2c8c4b6
+Warning: couldn't get type for request 6ab02ce4-3f61-4778-8007-d0d5a2c8c4b6
+Working on 7955365b-f98a-4a11-9cbd-8e1d6f9a5b01
+Warning: couldn't get type for request 7955365b-f98a-4a11-9cbd-8e1d6f9a5b01
+Working on 06fe3a8d-bb26-4510-82e4-c6ba3a768433
+Warning: couldn't get type for request 06fe3a8d-bb26-4510-82e4-c6ba3a768433
+Working on 2384633f-6719-4024-8742-183a70c9299b
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 5570, transmit_bytes_per_sec: 1263, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 4.26, load_avg_5_min: 3.94, tasks_runnable: 9, trace_input_kbps: 0.09, agent_cpu_time: 0.0, trace_size: 39704126 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 5253, transmit_bytes_per_sec: 910, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 1dcef11c-3727-43fd-907b-11864de37fa4 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 4b945eef-2a5a-4ea5-be0e-6773b6b930a5 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 6ab02ce4-3f61-4778-8007-d0d5a2c8c4b6 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 7955365b-f98a-4a11-9cbd-8e1d6f9a5b01 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 8506400187500.002
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17718750
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 8506400187500.002
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17718750
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 8506400187500.002
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17718750
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 8506400187500.002
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17718750
+Got 4 paths of duration [21.689ms, 12.496ms, 18.623ms, 19.581ms] at time 169248491us
+Groups: Group<8 Unknown traces, mean: 17.71875, var: 8506400187500.002, cv:0.16460378773806494, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Warning: couldn't get type for request 2384633f-6719-4024-8742-183a70c9299b
+Working on 2f0021d4-df7c-470c-8b82-495f903d2d2a
+Working on 52812351-848e-4b92-a7a1-1f87cd748ea8
+Warning: couldn't get type for request 2f0021d4-df7c-470c-8b82-495f903d2d2a
+Warning: couldn't get type for request 52812351-848e-4b92-a7a1-1f87cd748ea8
+Working on cd96767e-df6e-41c0-a81d-9446c0aba7c9
+Warning: couldn't get type for request cd96767e-df6e-41c0-a81d-9446c0aba7c9
+Working on 71d3f8bc-91f6-4eb6-9446-c20baa57900b
+Warning: couldn't get type for request 71d3f8bc-91f6-4eb6-9446-c20baa57900b
+Working on 5f503ebc-2e7b-44f1-abee-137104797de3
+Working on e1d3b11f-970a-4c54-8707-c907b7fb74f4
+Warning: couldn't get type for request 5f503ebc-2e7b-44f1-abee-137104797de3
+Warning: couldn't get type for request e1d3b11f-970a-4c54-8707-c907b7fb74f4
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 5348, transmit_bytes_per_sec: 1194, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 5.03, load_avg_5_min: 4.14, tasks_runnable: 7, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39710818 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4917, transmit_bytes_per_sec: 973, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 52812351-848e-4b92-a7a1-1f87cd748ea8 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace cd96767e-df6e-41c0-a81d-9446c0aba7c9 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 71d3f8bc-91f6-4eb6-9446-c20baa57900b added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 5f503ebc-2e7b-44f1-abee-137104797de3 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13299673743055.56
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18094916.666666664
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13299673743055.56
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18094916.666666664
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13299673743055.56
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18094916.666666664
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13299673743055.56
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18094916.666666664
+Got 4 paths of duration [24.06ms, 14.91ms, 13.484ms, 22.935ms] at time 189318364us
+Groups: Group<12 Unknown traces, mean: 18.094916666666663, var: 13299673743055.56, cv:0.2015412307305992, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on 4502a8e2-6623-4c09-aedc-9f9ad3d0ec05
+Warning: couldn't get type for request 4502a8e2-6623-4c09-aedc-9f9ad3d0ec05
+Working on aaad2cb2-6fdf-447e-bb4e-3d3b3420f4c4
+Warning: couldn't get type for request aaad2cb2-6fdf-447e-bb4e-3d3b3420f4c4
+Working on 9d48ccac-4add-497f-8668-30ac1c7d9293
+Warning: couldn't get type for request 9d48ccac-4add-497f-8668-30ac1c7d9293
+Working on 2f0021d4-df7c-470c-8b82-495f903d2d2a
+Warning: couldn't get type for request 2f0021d4-df7c-470c-8b82-495f903d2d2a
+Working on 06fe3a8d-bb26-4510-82e4-c6ba3a768433
+Working on e1d3b11f-970a-4c54-8707-c907b7fb74f4
+Warning: couldn't get type for request 06fe3a8d-bb26-4510-82e4-c6ba3a768433
+Working on 2384633f-6719-4024-8742-183a70c9299b
+Warning: couldn't get type for request e1d3b11f-970a-4c54-8707-c907b7fb74f4
+Warning: couldn't get type for request 2384633f-6719-4024-8742-183a70c9299b
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4495, transmit_bytes_per_sec: 1460, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 5.58, load_avg_5_min: 4.32, tasks_runnable: 7, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39721410 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4469, transmit_bytes_per_sec: 1205, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace e1d3b11f-970a-4c54-8707-c907b7fb74f4 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 2f0021d4-df7c-470c-8b82-495f903d2d2a added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 06fe3a8d-bb26-4510-82e4-c6ba3a768433 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 2384633f-6719-4024-8742-183a70c9299b added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17028609558593.756
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18948062.499999996
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17028609558593.756
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18948062.499999996
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17028609558593.756
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18948062.499999996
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 17028609558593.756
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18948062.499999996
+Got 4 paths of duration [20.962ms, 16.28ms, 28.495ms, 20.293ms] at time 209389580us
+Groups: Group<16 Unknown traces, mean: 18.948062499999995, var: 17028609558593.756, cv:0.21778340586263528, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on 675d1e8f-b9e4-4dc7-bd26-f76e1446e151
+Warning: couldn't get type for request 675d1e8f-b9e4-4dc7-bd26-f76e1446e151
+Working on c4524634-291f-436c-8b6a-f4458c86441d
+Warning: couldn't get type for request c4524634-291f-436c-8b6a-f4458c86441d
+Working on cb34b542-287d-46cb-a145-3207ef51d43b
+Warning: couldn't get type for request cb34b542-287d-46cb-a145-3207ef51d43b
+Working on 0504ca4d-15c8-4729-afc6-23771d35f355
+Working on aaad2cb2-6fdf-447e-bb4e-3d3b3420f4c4
+Warning: couldn't get type for request 0504ca4d-15c8-4729-afc6-23771d35f355
+Warning: couldn't get type for request aaad2cb2-6fdf-447e-bb4e-3d3b3420f4c4
+Working on 9d48ccac-4add-497f-8668-30ac1c7d9293
+Warning: couldn't get type for request 9d48ccac-4add-497f-8668-30ac1c7d9293
+Working on 4502a8e2-6623-4c09-aedc-9f9ad3d0ec05
+Warning: couldn't get type for request 4502a8e2-6623-4c09-aedc-9f9ad3d0ec05
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4390, transmit_bytes_per_sec: 1120, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 5.6, load_avg_5_min: 4.41, tasks_runnable: 8, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39731938 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 3854, transmit_bytes_per_sec: 1065, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace aaad2cb2-6fdf-447e-bb4e-3d3b3420f4c4 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 9d48ccac-4add-497f-8668-30ac1c7d9293 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 4502a8e2-6623-4c09-aedc-9f9ad3d0ec05 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 15863473058171.75
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18865684.21052631
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 15863473058171.75
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18865684.21052631
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 15863473058171.75
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18865684.21052631
+Got 3 paths of duration [14.478ms, 21.962ms, 18.839ms] at time 229453034us
+Groups: Group<19 Unknown traces, mean: 18.86568421052631, var: 15863473058171.75, cv:0.21111863880414664, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on 6451465d-4e2d-47c5-8e36-a1b5ebe0610d
+Warning: couldn't get type for request 6451465d-4e2d-47c5-8e36-a1b5ebe0610d
+Working on 148f8cb9-b6a8-4527-b99d-425e4b0ded3d
+Warning: couldn't get type for request 148f8cb9-b6a8-4527-b99d-425e4b0ded3d
+Working on b30e565a-c4d1-4537-b467-ee86ae3060eb
+Working on 675d1e8f-b9e4-4dc7-bd26-f76e1446e151
+Warning: couldn't get type for request b30e565a-c4d1-4537-b467-ee86ae3060eb
+Working on f7dc4720-647c-45fc-aa75-9c331a935775
+Warning: couldn't get type for request 675d1e8f-b9e4-4dc7-bd26-f76e1446e151
+Working on c4524634-291f-436c-8b6a-f4458c86441d
+Warning: couldn't get type for request f7dc4720-647c-45fc-aa75-9c331a935775
+Warning: couldn't get type for request c4524634-291f-436c-8b6a-f4458c86441d
+Working on cb34b542-287d-46cb-a145-3207ef51d43b
+Warning: couldn't get type for request cb34b542-287d-46cb-a145-3207ef51d43b
+Working on 0504ca4d-15c8-4729-afc6-23771d35f355
+Warning: couldn't get type for request 0504ca4d-15c8-4729-afc6-23771d35f355
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4397, transmit_bytes_per_sec: 1109, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 5.72, load_avg_5_min: 4.53, tasks_runnable: 6, trace_input_kbps: 0.81, agent_cpu_time: 0.0, trace_size: 39742466 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4319, transmit_bytes_per_sec: 926, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.0, load_avg_5_min: 0.0, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 675d1e8f-b9e4-4dc7-bd26-f76e1446e151 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace c4524634-291f-436c-8b6a-f4458c86441d added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace cb34b542-287d-46cb-a145-3207ef51d43b added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 0504ca4d-15c8-4729-afc6-23771d35f355 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 14478048344045.373
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18860782.608695645
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 14478048344045.373
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18860782.608695645
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 14478048344045.373
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18860782.608695645
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 14478048344045.373
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18860782.608695645
+Got 4 paths of duration [21.294ms, 14.226ms, 18.924ms, 20.906ms] at time 249517586us
+Groups: Group<23 Unknown traces, mean: 18.860782608695644, var: 14478048344045.373, cv:0.20174152613334081, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Making decision. Top 10 problem groups:
+Problematic req types: 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+Working on bdf181fe-3f46-4234-80a1-ad7a21961c90
+Warning: couldn't get type for request bdf181fe-3f46-4234-80a1-ad7a21961c90
+Working on 82954164-6e35-4fef-af77-4329cf1523da
+Warning: couldn't get type for request 82954164-6e35-4fef-af77-4329cf1523da
+Working on 87e27b35-5d0c-4bed-b4af-31175f365b0b
+Warning: couldn't get type for request 87e27b35-5d0c-4bed-b4af-31175f365b0b
+Working on ae181d05-b6d5-4967-a566-d4519016c297
+Working on 148f8cb9-b6a8-4527-b99d-425e4b0ded3d
+Warning: couldn't get type for request ae181d05-b6d5-4967-a566-d4519016c297
+Warning: couldn't get type for request 148f8cb9-b6a8-4527-b99d-425e4b0ded3d
+Working on b30e565a-c4d1-4537-b467-ee86ae3060eb
+Warning: couldn't get type for request b30e565a-c4d1-4537-b467-ee86ae3060eb
+Working on f7dc4720-647c-45fc-aa75-9c331a935775
+Warning: couldn't get type for request f7dc4720-647c-45fc-aa75-9c331a935775
+Working on 6451465d-4e2d-47c5-8e36-a1b5ebe0610d
+Warning: couldn't get type for request 6451465d-4e2d-47c5-8e36-a1b5ebe0610d
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4217, transmit_bytes_per_sec: 1630, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 7.05, load_avg_5_min: 4.9, tasks_runnable: 8, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39750298 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4149, transmit_bytes_per_sec: 1188, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.46, load_avg_5_min: 0.1, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 148f8cb9-b6a8-4527-b99d-425e4b0ded3d added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace b30e565a-c4d1-4537-b467-ee86ae3060eb added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace f7dc4720-647c-45fc-aa75-9c331a935775 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 6451465d-4e2d-47c5-8e36-a1b5ebe0610d added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 15477245755829.908
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18742148.14814814
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 15477245755829.908
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18742148.14814814
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 15477245755829.908
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18742148.14814814
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 15477245755829.908
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18742148.14814814
+Got 4 paths of duration [20.572ms, 24.165ms, 12.752ms, 14.751ms] at time 269588476us
+Groups: Group<27 Unknown traces, mean: 18.742148148148143, var: 15477245755829.908, cv:0.20990726637442803, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on 809a1b71-b470-4d76-94af-df651d4781bb
+Warning: couldn't get type for request 809a1b71-b470-4d76-94af-df651d4781bb
+Working on bd0f774b-0e9d-43fd-91b8-8bf72b49b9e4
+Warning: couldn't get type for request bd0f774b-0e9d-43fd-91b8-8bf72b49b9e4
+Working on cbe717da-9dc8-4d37-a72b-da38ba2d6b08
+Warning: couldn't get type for request cbe717da-9dc8-4d37-a72b-da38ba2d6b08
+Working on 87e27b35-5d0c-4bed-b4af-31175f365b0b
+Warning: couldn't get type for request 87e27b35-5d0c-4bed-b4af-31175f365b0b
+Working on 82954164-6e35-4fef-af77-4329cf1523da
+Warning: couldn't get type for request 82954164-6e35-4fef-af77-4329cf1523da
+Working on bdf181fe-3f46-4234-80a1-ad7a21961c90
+Warning: couldn't get type for request bdf181fe-3f46-4234-80a1-ad7a21961c90
+Working on ae181d05-b6d5-4967-a566-d4519016c297
+Warning: couldn't get type for request ae181d05-b6d5-4967-a566-d4519016c297
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4833, transmit_bytes_per_sec: 1452, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 6.67, load_avg_5_min: 4.96, tasks_runnable: 15, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39760890 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4285, transmit_bytes_per_sec: 987, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.33, load_avg_5_min: 0.09, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 87e27b35-5d0c-4bed-b4af-31175f365b0b added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 82954164-6e35-4fef-af77-4329cf1523da added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace bdf181fe-3f46-4234-80a1-ad7a21961c90 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace ae181d05-b6d5-4967-a566-d4519016c297 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 14352373925078.047
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18856451.61290322
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 14352373925078.047
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18856451.61290322
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 14352373925078.047
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18856451.61290322
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 14352373925078.047
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18856451.61290322
+Got 4 paths of duration [15.478ms, 21.944ms, 20.411ms, 20.679ms] at time 289659759us
+Groups: Group<31 Unknown traces, mean: 18.856451612903218, var: 14352373925078.047, cv:0.2009101598934178, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on bafb5671-8e2e-47b7-b73a-a2ed85cbf650
+Warning: couldn't get type for request bafb5671-8e2e-47b7-b73a-a2ed85cbf650
+Working on f63c9601-0c43-4f22-87ef-487745d3a9f8
+Working on f85e3815-da2b-4a94-a642-c4ae8abaf58a
+Warning: couldn't get type for request f63c9601-0c43-4f22-87ef-487745d3a9f8
+Working on 1d65025f-1875-4104-8eed-11f878a8eafb
+Warning: couldn't get type for request f85e3815-da2b-4a94-a642-c4ae8abaf58a
+Warning: couldn't get type for request 1d65025f-1875-4104-8eed-11f878a8eafb
+Working on 31c85a2b-16a4-4c2c-8730-8b89ff68d017
+Warning: couldn't get type for request 31c85a2b-16a4-4c2c-8730-8b89ff68d017
+Working on cbe717da-9dc8-4d37-a72b-da38ba2d6b08
+Warning: couldn't get type for request cbe717da-9dc8-4d37-a72b-da38ba2d6b08
+Working on bd0f774b-0e9d-43fd-91b8-8bf72b49b9e4
+Warning: couldn't get type for request bd0f774b-0e9d-43fd-91b8-8bf72b49b9e4
+Working on 809a1b71-b470-4d76-94af-df651d4781bb
+Warning: couldn't get type for request 809a1b71-b470-4d76-94af-df651d4781bb
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4881, transmit_bytes_per_sec: 1538, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 6.54, load_avg_5_min: 5.04, tasks_runnable: 16, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39771354 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4246, transmit_bytes_per_sec: 1067, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.24, load_avg_5_min: 0.08, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace cbe717da-9dc8-4d37-a72b-da38ba2d6b08 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace bd0f774b-0e9d-43fd-91b8-8bf72b49b9e4 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 809a1b71-b470-4d76-94af-df651d4781bb added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13867415831314.883
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18801147.058823522
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13867415831314.883
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18801147.058823522
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13867415831314.883
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18801147.058823522
+Got 3 paths of duration [19.824ms, 14.14ms, 20.725ms] at time 309751192us
+Groups: Group<34 Unknown traces, mean: 18.80114705882352, var: 13867415831314.883, cv:0.19806759255090128, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on 3358a404-a670-45c5-9954-2f1a951af6ea
+Warning: couldn't get type for request 3358a404-a670-45c5-9954-2f1a951af6ea
+Working on d607a4a2-3777-461e-ae50-a62a0d2b4583
+Working on 31c85a2b-16a4-4c2c-8730-8b89ff68d017
+Warning: couldn't get type for request d607a4a2-3777-461e-ae50-a62a0d2b4583
+Working on 7d0f20eb-c78d-4bfb-9ec5-fe5129693504
+Warning: couldn't get type for request 31c85a2b-16a4-4c2c-8730-8b89ff68d017
+Warning: couldn't get type for request 7d0f20eb-c78d-4bfb-9ec5-fe5129693504
+Working on f85e3815-da2b-4a94-a642-c4ae8abaf58a
+Working on 1d65025f-1875-4104-8eed-11f878a8eafb
+Warning: couldn't get type for request f85e3815-da2b-4a94-a642-c4ae8abaf58a
+Warning: couldn't get type for request 1d65025f-1875-4104-8eed-11f878a8eafb
+Working on bafb5671-8e2e-47b7-b73a-a2ed85cbf650
+Warning: couldn't get type for request bafb5671-8e2e-47b7-b73a-a2ed85cbf650
+Working on f63c9601-0c43-4f22-87ef-487745d3a9f8
+Warning: couldn't get type for request f63c9601-0c43-4f22-87ef-487745d3a9f8
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 5204, transmit_bytes_per_sec: 1558, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 6.9, load_avg_5_min: 5.22, tasks_runnable: 9, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39781946 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 5342, transmit_bytes_per_sec: 974, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.17, load_avg_5_min: 0.08, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace f85e3815-da2b-4a94-a642-c4ae8abaf58a added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 31c85a2b-16a4-4c2c-8730-8b89ff68d017 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 1d65025f-1875-4104-8eed-11f878a8eafb added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace bafb5671-8e2e-47b7-b73a-a2ed85cbf650 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace f63c9601-0c43-4f22-87ef-487745d3a9f8 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13399322297172.916
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18693564.1025641
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13399322297172.916
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18693564.1025641
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13399322297172.916
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18693564.1025641
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13399322297172.916
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18693564.1025641
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13399322297172.916
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18693564.1025641
+Got 5 paths of duration [14.712ms, 19.171ms, 20.826ms, 21.255ms, 13.846ms] at time 329814438us
+Groups: Group<39 Unknown traces, mean: 18.6935641025641, var: 13399322297172.916, cv:0.19581650963606342, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on 56d2a40d-2e95-4d2b-b5d0-c1bff178f1ef
+Warning: couldn't get type for request 56d2a40d-2e95-4d2b-b5d0-c1bff178f1ef
+Working on 5c07edf8-3aa1-4a7c-8e41-042d2b009ba5
+Warning: couldn't get type for request 5c07edf8-3aa1-4a7c-8e41-042d2b009ba5
+Working on 0b5131c9-efe3-4fb7-859a-87a908110e4d
+Warning: couldn't get type for request 0b5131c9-efe3-4fb7-859a-87a908110e4d
+Working on 75b62906-3b59-4480-950b-fb58f4e47c54
+Warning: couldn't get type for request 75b62906-3b59-4480-950b-fb58f4e47c54
+Working on 3358a404-a670-45c5-9954-2f1a951af6ea
+Warning: couldn't get type for request 3358a404-a670-45c5-9954-2f1a951af6ea
+Working on d607a4a2-3777-461e-ae50-a62a0d2b4583
+Warning: couldn't get type for request d607a4a2-3777-461e-ae50-a62a0d2b4583
+Working on 7d0f20eb-c78d-4bfb-9ec5-fe5129693504
+Warning: couldn't get type for request 7d0f20eb-c78d-4bfb-9ec5-fe5129693504
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4941, transmit_bytes_per_sec: 1953, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 6.67, load_avg_5_min: 5.27, tasks_runnable: 10, trace_input_kbps: 0.81, agent_cpu_time: 0.0, trace_size: 39792474 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4026, transmit_bytes_per_sec: 1090, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.12, load_avg_5_min: 0.07, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 3358a404-a670-45c5-9954-2f1a951af6ea added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace d607a4a2-3777-461e-ae50-a62a0d2b4583 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 7d0f20eb-c78d-4bfb-9ec5-fe5129693504 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13338652002834.47
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18720738.09523809
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13338652002834.47
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18720738.09523809
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 13338652002834.47
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18720738.09523809
+Got 3 paths of duration [21.59ms, 21.541ms, 14.091ms] at time 349882770us
+Groups: Group<42 Unknown traces, mean: 18.72073809523809, var: 13338652002834.47, cv:0.1950890992824352, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on 099f3cae-6f1b-43a6-915b-ffb0b0824b49
+Warning: couldn't get type for request 099f3cae-6f1b-43a6-915b-ffb0b0824b49
+Working on 6f9342b2-7f5c-412b-8648-d3ef77df4bcd
+Warning: couldn't get type for request 6f9342b2-7f5c-412b-8648-d3ef77df4bcd
+Working on 64f2a283-e909-471c-af75-bf3aed41166d
+Warning: couldn't get type for request 64f2a283-e909-471c-af75-bf3aed41166d
+Working on 78015c97-0c4d-4bbc-a13b-1396f3f91de1
+Warning: couldn't get type for request 78015c97-0c4d-4bbc-a13b-1396f3f91de1
+Working on 75b62906-3b59-4480-950b-fb58f4e47c54
+Warning: couldn't get type for request 75b62906-3b59-4480-950b-fb58f4e47c54
+Working on 0b5131c9-efe3-4fb7-859a-87a908110e4d
+Warning: couldn't get type for request 0b5131c9-efe3-4fb7-859a-87a908110e4d
+Working on 56d2a40d-2e95-4d2b-b5d0-c1bff178f1ef
+Warning: couldn't get type for request 56d2a40d-2e95-4d2b-b5d0-c1bff178f1ef
+Working on 5c07edf8-3aa1-4a7c-8e41-042d2b009ba5
+Warning: couldn't get type for request 5c07edf8-3aa1-4a7c-8e41-042d2b009ba5
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4266, transmit_bytes_per_sec: 1277, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 6.52, load_avg_5_min: 5.32, tasks_runnable: 5, trace_input_kbps: 0.8, agent_cpu_time: 0.0, trace_size: 39803002 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 3829, transmit_bytes_per_sec: 1136, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.08, load_avg_5_min: 0.07, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 75b62906-3b59-4480-950b-fb58f4e47c54 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 0b5131c9-efe3-4fb7-859a-87a908110e4d added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 56d2a40d-2e95-4d2b-b5d0-c1bff178f1ef added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 5c07edf8-3aa1-4a7c-8e41-042d2b009ba5 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12206093400756.145
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18735347.82608695
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12206093400756.145
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18735347.82608695
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12206093400756.145
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18735347.82608695
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12206093400756.145
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18735347.82608695
+Got 4 paths of duration [19.757ms, 18.678ms, 18.824ms, 18.296ms] at time 369948077us
+Groups: Group<46 Unknown traces, mean: 18.73534782608695, var: 12206093400756.145, cv:0.18647756266059068, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Making decision. Top 10 problem groups:
+Problematic req types: 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+None, 
+Working on f4f442b1-ab03-44ac-823f-616507f02333
+Warning: couldn't get type for request f4f442b1-ab03-44ac-823f-616507f02333
+Working on 6f822dff-6572-4eff-b8d8-ac1f70b7a3f1
+Warning: couldn't get type for request 6f822dff-6572-4eff-b8d8-ac1f70b7a3f1
+Working on 8af7c3a3-101a-4549-859b-e65305d3d9c2
+Warning: couldn't get type for request 8af7c3a3-101a-4549-859b-e65305d3d9c2
+Working on 0b81f122-628a-42a6-9564-7dbf5363c27e
+Warning: couldn't get type for request 0b81f122-628a-42a6-9564-7dbf5363c27e
+Working on 099f3cae-6f1b-43a6-915b-ffb0b0824b49
+Warning: couldn't get type for request 099f3cae-6f1b-43a6-915b-ffb0b0824b49
+Working on 6f9342b2-7f5c-412b-8648-d3ef77df4bcd
+Warning: couldn't get type for request 6f9342b2-7f5c-412b-8648-d3ef77df4bcd
+Working on 78015c97-0c4d-4bbc-a13b-1396f3f91de1
+Warning: couldn't get type for request 78015c97-0c4d-4bbc-a13b-1396f3f91de1
+Working on 64f2a283-e909-471c-af75-bf3aed41166d
+Warning: couldn't get type for request 64f2a283-e909-471c-af75-bf3aed41166d
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4837, transmit_bytes_per_sec: 1674, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 6.27, load_avg_5_min: 5.33, tasks_runnable: 8, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39810834 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 4379, transmit_bytes_per_sec: 1206, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.06, load_avg_5_min: 0.06, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 099f3cae-6f1b-43a6-915b-ffb0b0824b49 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 6f9342b2-7f5c-412b-8648-d3ef77df4bcd added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 78015c97-0c4d-4bbc-a13b-1396f3f91de1 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 64f2a283-e909-471c-af75-bf3aed41166d added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12423406952400.002
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18761259.999999993
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12423406952400.002
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18761259.999999993
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12423406952400.002
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18761259.999999993
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12423406952400.002
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18761259.999999993
+Got 4 paths of duration [20.282ms, 12.489ms, 22.147ms, 21.319ms] at time 390020296us
+Groups: Group<50 Unknown traces, mean: 18.761259999999993, var: 12423406952400.002, cv:0.1878703972589081, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on fbba30be-a0d5-4201-ab22-d9f04613b816
+Warning: couldn't get type for request fbba30be-a0d5-4201-ab22-d9f04613b816
+Working on cf3c299b-a84c-4e8a-b58a-e8335004e580
+Warning: couldn't get type for request cf3c299b-a84c-4e8a-b58a-e8335004e580
+Working on 69795585-8769-48c3-add7-01bcb46d14e0
+Warning: couldn't get type for request 69795585-8769-48c3-add7-01bcb46d14e0
+Working on 8af7c3a3-101a-4549-859b-e65305d3d9c2
+Warning: couldn't get type for request 8af7c3a3-101a-4549-859b-e65305d3d9c2
+Working on 0b81f122-628a-42a6-9564-7dbf5363c27e
+Warning: couldn't get type for request 0b81f122-628a-42a6-9564-7dbf5363c27e
+Working on f4f442b1-ab03-44ac-823f-616507f02333
+Warning: couldn't get type for request f4f442b1-ab03-44ac-823f-616507f02333
+Working on 6f822dff-6572-4eff-b8d8-ac1f70b7a3f1
+Warning: couldn't get type for request 6f822dff-6572-4eff-b8d8-ac1f70b7a3f1
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 3854, transmit_bytes_per_sec: 1292, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 5.54, load_avg_5_min: 5.23, tasks_runnable: 9, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 39821426 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 3579, transmit_bytes_per_sec: 666, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.04, load_avg_5_min: 0.06, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 8af7c3a3-101a-4549-859b-e65305d3d9c2 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 0b81f122-628a-42a6-9564-7dbf5363c27e added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace f4f442b1-ab03-44ac-823f-616507f02333 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace 6f822dff-6572-4eff-b8d8-ac1f70b7a3f1 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000, 21009000, 13759000, 14393000, 21052000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12502631320987.654
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18671777.77777777
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000, 21009000, 13759000, 14393000, 21052000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12502631320987.654
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18671777.77777777
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000, 21009000, 13759000, 14393000, 21052000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12502631320987.654
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18671777.77777777
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000, 21009000, 13759000, 14393000, 21052000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12502631320987.654
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18671777.77777777
+Got 4 paths of duration [21.009ms, 13.759ms, 14.393ms, 21.052ms] at time 410083605us
+Groups: Group<54 Unknown traces, mean: 18.67177777777777, var: 12502631320987.654, cv:0.18937168455069256, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on 812aa8ce-7b78-4219-8977-c853b22bbf5c
+Warning: couldn't get type for request 812aa8ce-7b78-4219-8977-c853b22bbf5c
+Working on 88693007-b862-452f-ab15-414ff8875849
+Working on 69795585-8769-48c3-add7-01bcb46d14e0
+Warning: couldn't get type for request 88693007-b862-452f-ab15-414ff8875849
+Working on 705a9606-2c7b-4e0b-86a5-fb92189e42e7
+Warning: couldn't get type for request 69795585-8769-48c3-add7-01bcb46d14e0
+Working on fbba30be-a0d5-4201-ab22-d9f04613b816
+Warning: couldn't get type for request 705a9606-2c7b-4e0b-86a5-fb92189e42e7
+Working on 01789205-f0de-4d1a-be79-6f81a129d2d3
+Warning: couldn't get type for request fbba30be-a0d5-4201-ab22-d9f04613b816
+Working on cf3c299b-a84c-4e8a-b58a-e8335004e580
+Warning: couldn't get type for request 01789205-f0de-4d1a-be79-6f81a129d2d3
+Warning: couldn't get type for request cf3c299b-a84c-4e8a-b58a-e8335004e580
+http://ctl:3030: NodeStats { receive_bytes_per_sec: 4101, transmit_bytes_per_sec: 1275, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 6.05, load_avg_5_min: 5.39, tasks_runnable: 13, trace_input_kbps: 0.81, agent_cpu_time: 0.0, trace_size: 39831954 }
+http://cp-1:3030: NodeStats { receive_bytes_per_sec: 3722, transmit_bytes_per_sec: 965, receive_drop_per_sec: 0, transmit_drop_per_sec: 0, load_avg_1_min: 0.03, load_avg_5_min: 0.05, tasks_runnable: 2, trace_input_kbps: 0.0, agent_cpu_time: 0.0, trace_size: 22406304 }
+**** A trace 69795585-8769-48c3-add7-01bcb46d14e0 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace fbba30be-a0d5-4201-ab22-d9f04613b816 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+**** A trace cf3c299b-a84c-4e8a-b58a-e8335004e580 added to group"f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd"
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000, 21009000, 13759000, 14393000, 21052000, 16553000, 20601000, 20026000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12020409289012.004
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18692210.52631578
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000, 21009000, 13759000, 14393000, 21052000, 16553000, 20601000, 20026000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12020409289012.004
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18692210.52631578
+Duration of each trace: [18607000, 18212000, 13487000, 19055000, 21689000, 12496000, 18623000, 19581000, 24060000, 14910000, 13484000, 22935000, 20962000, 16280000, 28495000, 20293000, 14478000, 21962000, 18839000, 21294000, 14226000, 18924000, 20906000, 20572000, 24165000, 12752000, 14751000, 15478000, 21944000, 20411000, 20679000, 19824000, 14140000, 20725000, 14712000, 19171000, 20826000, 21255000, 13846000, 21590000, 21541000, 14091000, 19757000, 18678000, 18824000, 18296000, 20282000, 12489000, 22147000, 21319000, 21009000, 13759000, 14393000, 21052000, 16553000, 20601000, 20026000]
+Set variance of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 12020409289012.004
+Set mean of Unknown - f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd to 18692210.52631578
+Got 3 paths of duration [16.553ms, 20.601ms, 20.026ms] at time 430163345us
+Groups: Group<57 Unknown traces, mean: 18.69221052631578, var: 12020409289012.004, cv:0.18548080152961874, hash: "f8ae1f832d5a0027c72c218599b8b428e03dc3cfc2bca79339ac91de61a3c7dd">, 
+Working on 2ace68b8-b36e-4ef2-82ca-78c4e96eac31
+Warning: couldn't get type for request 2ace68b8-b36e-4ef2-82ca-78c4e96eac31
+Working on f23a4264-2b7d-4483-964a-89aff996bbbe
+Warning: couldn't get type for request f23a4264-2b7d-4483-964a-89aff996bbbe
+Working on 76ba75bd-adef-4f13-8e1d-4475ff8f54e5
+Warning: couldn't get type for request 76ba75bd-adef-4f13-8e1d-4475ff8f54e5
+Working on b6500376-8805-42de-aca1-90eb451e1446
+Warning: couldn't get type for request b6500376-8805-42de-aca1-90eb451e1446
+Working on 812aa8ce-7b78-4219-8977-c853b22bbf5c
+Warning: couldn't get type for request 812aa8ce-7b78-4219-8977-c853b22bbf5c
+Working on 88693007-b862-452f-ab15-414ff8875849
+Warning: couldn't get type for request 88693007-b862-452f-ab15-414ff8875849
+Working on 705a9606-2c7b-4e0b-86a5-fb92189e42e7
+Warning: couldn't get type for request 705a9606-2c7b-4e0b-86a5-fb92189e42e7
+Working on 01789205-f0de-4d1a-be79-6f81a129d2d3
+Warning: couldn't get type for request 01789205-f0de-4d1a-be79-6f81a129d2d3
