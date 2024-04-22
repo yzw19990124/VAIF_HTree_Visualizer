@@ -1,6 +1,7 @@
 import json
 import networkx as nx
 import matplotlib.pyplot as plt
+import os
 
 def htree_built(data):
     print("start building graph...")
@@ -30,8 +31,8 @@ def visual(G):
     plt.show()
 
 if __name__ == "__main__":
-    with open('parsed.json', 'r') as file:
-        data = json.load(file)
+    data = os.getenv("DATA")
+    data = json.loads(data)
     graph = htree_built(data)
     # print(graph._node)
     visual(graph)
