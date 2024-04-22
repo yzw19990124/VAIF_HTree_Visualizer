@@ -13,13 +13,14 @@ def htree_built(data):
     for group, node_stats in data.items():
         G.add_node(group)
         G.add_edge(root_node, group)
-
+        # root_node = group#DEBUG
         for stat in node_stats:
             parsed = stat.split('NodeStats')
             node_name = f"{parsed[0].strip()[:-1]}_{group}"
             stat_per_node = parsed[1].strip("\n")  
             G.add_node(node_name, label=stat_per_node)
             G.add_edge(group, node_name)
+            root_node = group#DEBUG
 
     print("Done.")
     return G
